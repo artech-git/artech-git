@@ -3,7 +3,7 @@
 <p align="center">
  
  <h2 align="center">Welcome To My Repository</h2>
- <p align="center">Priyanka Prasad </p>
+ <p align="center"> Prabhat </p>
 </p>
 
 <p align="center"> 
@@ -17,13 +17,13 @@
 <img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/priyanka-prasad-/">
-<img align="left" alt="priyanka prasad  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Prabhat  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/its_no_priya">
-<img align="left" alt="priyanka prasad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<img align="left" alt="Prabhat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/devstrons/">
-<img align="left" alt="priyanka prasadInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="PrabhatInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 
@@ -32,7 +32,7 @@
 
 **Just a Introduction:**
 
-Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently 💻 doing my undergraduate BCA (2nd year) from Rajasthan University Maharani college and I am passionate about technology and want to learn & explore new technologies I'm a Chapter lead at 💻 [@girlscript jaipur](https://www.linkedin.com/showcase/girlscript-jaipur/), Intern 👧💻 [@gurugram police](https://www.linkedin.com/company/haryana/lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BK5mgjdLUQtCDPzyY94K2bg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-background_details_company), Internee 👧💼. Beside's Computer Science, I love photography,cooking and playing basketball.
+Hi, I'm Prabhat, A Student and Lerner 🚀 from Bihar, India, currently 💻 doing my undergraduate BCA (2nd year) from Rajasthan University Maharani college and I am passionate about technology and want to learn & explore new technologies I'm a Chapter lead at 💻 [@girlscript jaipur](https://www.linkedin.com/prabhat25/), Intern 👧💻 [@gurugram police] Internee 👧💼. 
 
 
 ## My GitHub contributions as a Game of Life
@@ -69,7 +69,7 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="50" src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-128x128-blk.png"></code>
 
 
 
