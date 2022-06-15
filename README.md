@@ -45,11 +45,11 @@ Hi, I'm Prabhat, A Student and Lerner 🚀 from Bihar, India, currently 💻 doi
 <!--- 👯 I’m looking to collaborate and make any tech community-->
 
 - 👧 I’m currently partcipating in as much Hackathons as I can 
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently on TOk-Io Rust
 - 💬 Ask me about anything, I am happy to help
-- 😄 Pronouns She/Her
+- 😄 Pronouns He/Him
 - ⚡️ Fun-Fact  aI started writing blogs, [Hashnode blog](https://priyankaprasad.hashnode.dev/) in 2020 | Tech account [Devstrons](https://www.instagram.com/devstrons/)
-- 📫 How to reach me:priyankaafssulur@gmail.com
+- 📫 How to reach me:ar9tech@outlook.com
 - 📝[Resume](https://www.linkedin.com/in/prykdev/)
 
 
