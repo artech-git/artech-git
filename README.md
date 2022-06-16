@@ -32,7 +32,7 @@
 
 **Just a Introduction:**
 
-Hi, I'm Prabhat, A Student and Lerner 🚀 from Bihar, India, currently 💻 doing my undergraduate BCA (2nd year) from Rajasthan University Maharani college and I am passionate about technology and want to learn & explore new technologies I'm a Chapter lead at 💻 [@girlscript jaipur](https://www.linkedin.com/prabhat25/), Intern 👧💻 [@gurugram police] Internee 👧💼. 
+Hi, I'm Prabhat, A Student and Lerner 🚀 from India, currently 💻 doing my undergraduate BCA (2nd year) from Rajasthan University Maharani college and I am passionate about technology and want to learn & explore new technologies I'm a Chapter lead at 💻 [@girlscript jaipur](https://www.linkedin.com/prabhat25/), Intern 👧💻 [@gurugram police] Internee 👧💼. 
 
 
 ## My GitHub contributions as a Game of Life
