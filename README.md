@@ -32,7 +32,7 @@
 
 **Just a Introduction:**
 
-Hi, I'm Prabhat, A Student and Lerner 🚀 from India, currently 💻 doing my undergraduate BCA (2nd year) from Rajasthan University Maharani college and I am passionate about technology and want to learn & explore new technologies I'm a Chapter lead at 💻 [@girlscript jaipur](https://www.linkedin.com/prabhat25/), Intern 👧💻 [@gurugram police] Internee 👧💼. 
+Hi, I'm Prabhat, A Student and Lerner 🚀 from India, currently 💻 doing my undergraduate B.tech from savitri bai phule pune University and I am passionate about technologies and want to learn & explore new technologies I'm one the few's developers who is a rustacean don't miss to check out on my linked profile 💻 [@girlscript jaipur](https://www.linkedin.com/prabhat25/), . 
 
 
 ## My GitHub contributions as a Game of Life
@@ -45,12 +45,12 @@ Hi, I'm Prabhat, A Student and Lerner 🚀 from India, currently 💻 doing my u
 <!--- 👯 I’m looking to collaborate and make any tech community-->
 
 - 👧 I’m currently partcipating in as much Hackathons as I can 
-- 🌱 I’m currently on TOk-Io Rust
+- 🌱 I’m actively writing web apps on Tokio(Tok-io) Rust
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns He/Him
-- ⚡️ Fun-Fact  aI started writing blogs, [Hashnode blog](https://priyankaprasad.hashnode.dev/) in 2020 | Tech account [Devstrons](https://www.instagram.com/devstrons/)
+- ⚡️ Fun-Fact  I started writing blogs, [Hashnode blog](https://priyankaprasad.hashnode.dev/) in 2020 | Tech account [Devstrons]
 - 📫 How to reach me:ar9tech@outlook.com
-- 📝[Resume](https://www.linkedin.com/in/prykdev/)
+- 📝[Resume](https://www.linkedin.com/in/prabhat25/)
 
 
 ## My Contributions
