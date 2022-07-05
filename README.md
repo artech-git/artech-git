@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/artech-git](github.com/artech-git)
 
-- 📝 I regularly write articles on [dev.to/artechgit](dev.to/artechgit)
+- 📝 I regularly write articles on [dev.to](https://dev.to/artechgit)
 
 - 💬 Ask me about **Rust, Tokio(Rust), C++ ,Go**
 
