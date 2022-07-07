@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabhat</h1>
-<h3 align="center">A passionate fullstack developer from India who focuses writing high performance and efficient web app so to increase the efficacy of the code as well as to retain your bank balance ...</h3>
+<h3 align="center">A passionate fullstack developer who focuses writing high performance and efficient web app so to increase the efficacy of the code as well as to retain your bank balance ...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artech-git&label=Profile%20views&color=0e75b6&style=flat" alt="artech-git" /> </p>
 
