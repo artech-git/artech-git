@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **ar9tech@outlook.com**
 
-- 📄 Know about my experiences [linkedin.com/in/prabhat25/](linkedin.com/in/prabhat25/)
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/prabhat25/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
