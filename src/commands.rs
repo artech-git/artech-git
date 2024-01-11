@@ -7,7 +7,6 @@ enum DBCommands {
     dbinfo = 1 , 
 }
 
-
 impl DBCommands {
     
     fn from_str(command: &str) -> BackendResult<Self> { 
@@ -28,8 +27,6 @@ impl DBCommands {
 
         Ok(i)
     }
-
-
 }
 
 #[derive(Debug, thiserror::Error)]
@@ -39,6 +36,4 @@ pub enum CommandErrors {
 
     #[error("Field not found for command")]
     InvalidInput,
-
-
 }

@@ -3,6 +3,7 @@
 
 pub type BackendResult<T> = Result<T, BackendError> ; 
 
+#[derive(Debug)]
 pub struct BackendError { 
     errors: ErrorEnum 
 }
@@ -30,4 +31,6 @@ pub enum ErrorEnum {
     #[error(transparent)]
     FileError(#[from] crate::io::FileError), 
 
+    #[error("std file opening: {0:?}")]
+    StdFileError(#[from] std::io::Error)
 }
