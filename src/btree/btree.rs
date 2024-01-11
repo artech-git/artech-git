@@ -4,7 +4,7 @@ use crate::error::BackendResult;
 use super::TextEncoding;
 
 #[derive(Debug)]
-struct BtreePageHeader {
+pub struct BtreePageHeader {
     _page_type: BtreePageType,
     _freeblock_idx: u16,
     cell_count: u16,
@@ -72,7 +72,7 @@ impl BtreePageHeader {
 }
 
 
-#[derive(Debug)]
+#[derive(Debug, Clone)]
 pub struct TableBtreeLeafCell {
     _size: u64,
     _row_id: u64,
@@ -93,7 +93,7 @@ impl TableBtreeLeafCell {
 }
 
 pub struct BtreePage {
-    _header: BtreePageHeader,
+    pub _header: BtreePageHeader,
     pub cells: Vec<TableBtreeLeafCell>,
 }
 
@@ -125,7 +125,7 @@ impl BtreePage {
 }
 
 
-#[derive(Debug)]
+#[derive(Debug, Clone)]
 pub struct Record {
     _header: RecordHeader,
     pub values: Vec<RecordValue>,
@@ -211,7 +211,7 @@ impl Record {
 }
 
 
-#[derive(Debug)]
+#[derive(Debug, Clone)]
 struct RecordHeader {
     len: u64,
     col_types: Vec<RecordSerialType>,
@@ -232,7 +232,7 @@ impl RecordHeader {
     }
 }
 
-#[derive(Debug)]
+#[derive(Debug, Clone)]
 enum RecordSerialType {
     Null,
     I8,
@@ -294,7 +294,7 @@ impl From<u64> for RecordSerialType {
     }
 }
 
-#[derive(Debug)]
+#[derive(Debug, Clone)]
 pub enum RecordValue {
     Null,
     I8(i8),

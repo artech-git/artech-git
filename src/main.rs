@@ -1,3 +1,6 @@
+
+#![allow(dead_code, unused_imports, unused_variables)]
+
 use anyhow::{bail, Result};
 use structure::DBLayout;
 use std::fs::File;
@@ -31,23 +34,15 @@ async fn main() -> anyhow::Result<()> {
     let mut header = [0; 100];
     let mut db_layout = DBLayout::init(&args[1]).await.unwrap();
 
-    let mut schema = btree::read_sqlite_schema(&mut db_layout).await.unwrap();
 
     match command.as_str() {
 
         ".dbinfo" => {
-            // db_layout.print_dbinfo().await;
-            todo!()
+            db_layout.print_dbinfo().await;
         }, 
 
         ".tables" => { 
-            // db_layout.print_tables().await;
-            println!("{}", 
-                schema.into_iter()
-                .map(|e| e.name )
-                .collect::<Vec<_>>()
-                .join(" ")
-            );
+            db_layout.print_tables().await;
         },
 
         _ => bail!("Missing or invalid command passed: {}", command),
