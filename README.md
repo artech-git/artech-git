@@ -4,14 +4,11 @@
 
 <div>
 
----
-
 <p align="center" > 
 <img src="https://komarev.com/ghpvc/?username=artech-git&label=Profile%20views&color=0e75b6&style=flat" alt="artech-git"/> 
 </p>
 
-
-<h3 align="center"> Technologies </h2>
+<h2 align="left"> Technologies </h2>
 
 <div style="width:60%; float:left" > 
 <ul >
@@ -19,25 +16,18 @@
 <li> Low-Level & System Programming</li>
 <li> Backend Programming</li>
 <li> Protocol development</li>
-</ul>
-</div>
-
-
-</div style="width:50%; float:right">
-<ul>
 <li> Databases</li>
 <li> Blockchain</li>
 <li> Network application</li>
 <li> WASM</li>
 </ul>
 </div>
+
+
+</div style="width:50%; float:right">
+
 </div>
-
----
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
----
+</div>
 
 <h3 align="center">Connect with me:</h3>
 
